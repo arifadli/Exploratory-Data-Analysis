@@ -1,1 +1,1 @@
-# Statistical_Analysis
+# Earthquake-Statistical-Analysis
