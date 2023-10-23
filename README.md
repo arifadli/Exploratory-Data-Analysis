@@ -1,9 +1,4 @@
-# Earthquake Statistical Analysis
+# Exploratory Data Analysis (EDA)
 
-**Statistika Kejadian Gempa.ipynb** Beberapa Informasi yang ditampilkan pada bagian ini adalah
-1. Total Kejadian Gempa sejak 1970 hingga 2017
-2. Rata-rata jumlah kejadian per pekan
-3. Rata-rata jumlah kejadian per tahun
-4. Manitudo gempa terbesar:
-5. Visualisasi Lokasi Gempa
-6. Histogram Magnitude, Longitude, Latitude, Depth (Terhadap Frekuensi Kejadian Gempa)
+Exploratory Data Analysis (EDA) is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
+Before entering into statistical modeling or machine learning, exploratory data analysis is a critical step to check the data is what it claims to be and that there are no evident flaws. Every organization's data science efforts should include it.
