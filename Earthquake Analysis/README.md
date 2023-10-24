@@ -2,19 +2,15 @@
 
 An earthquake analysis that is exploratory in nature. In addition, machine learning techniques are being used to forecast future earthquakes. 
 
-using Python
-Scikit, matplotlib, anytree, basemap, numpy, mycolorpy and pandas were utilized as libraries.
+using **Python** with Scikit, matplotlib, anytree, basemap, numpy, mycolorpy and pandas were utilized as libraries.
 
-Concerning Data
+**Concerning Data**
 I relied on USGS Earthquake Data.
-The data above is available in.csv file here.
+The data above is available in.csv file here. This dataset covers earthquakes from 1970 to 2017.
 
-Questions and Answers
-Where do earthquakes occur most often?
-
-Experiment
-I calculated the frequency of earthquakes
-I drew a graph to show the incidence of earthquakes per year.
-I made a histogram between the frequency of earthquake events and several earthquake variables such as location (Longitude, Latitude) and Magnitude and depth
-I made a scatter plot between earthquake variables such as location (Longitude, Latitude) and Magnitude and depth
-I'm trying to predict future earthquakes.
+**Experiment**<br>
+1. I calculated the frequency of earthquakes<br>
+2. I drew a graph to show the incidence of earthquakes per year.<br>
+3. I made a histogram between the frequency of earthquake events and several earthquake variables such as location (Longitude, Latitude) and Magnitude and depth<br>
+4. I made a scatter plot between earthquake variables such as location (Longitude, Latitude) and Magnitude and depth<br>
+5. I'm trying to predict future earthquakes.<br>
