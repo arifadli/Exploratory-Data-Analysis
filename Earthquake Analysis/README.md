@@ -7,7 +7,7 @@ Scikit, matplotlib, anytree, basemap, numpy, mycolorpy and pandas were utilized 
 
 Concerning Data
 I relied on USGS Earthquake Data.
-The data above is available in.csv file here. This dataset covers earthquakes from 1970 to 2017.
+The data above is available in.csv file here.
 
 Questions and Answers
 Where do earthquakes occur most often?
