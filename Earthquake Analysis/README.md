@@ -1,11 +1,9 @@
 # Exploratory Data Analysis (EDA)
 
-**Earthquake Analysis Part 1**
-An earthquake analysis that is exploratory in nature. In addition, machine learning techniques are being used to forecast future earthquakes. 
+**Earthquake Analysis Part 1**<br>
+An earthquake analysis that is exploratory in nature. In addition, machine learning techniques are being used to forecast future earthquakes. Using **Python** with Scikit, matplotlib, anytree, basemap, numpy, mycolorpy and pandas were utilized as libraries.
 
-using **Python** with Scikit, matplotlib, anytree, basemap, numpy, mycolorpy and pandas were utilized as libraries.
-
-**Concerning Data**
+**Concerning Data**<br>
 I relied on USGS Earthquake Data.
 The data above is available in csv format. This dataset covers earthquakes from 1970 to 2017.
 
