@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA)
 
-<p align="justify"><b>Exploratory Data Analysis (EDA) <b>is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
+<p align="justify"><b>Exploratory Data Analysis (EDA) </b>is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
 Before entering into statistical modeling or machine learning, exploratory data analysis is a critical step to check the data is what it claims to be and that there are no evident flaws. Every organization's data science efforts should include it.</p>
 
 Description: **Exploratory Data Analysis for California, Iran and Indonesia Earthquake
