@@ -10,8 +10,7 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 <b>Table of Contents</b>
 1. Variable Description
 2. Data Understanding
-3. Data Cleaning
-4. Data Visualization
+3. Data Visualization
 
 
 
