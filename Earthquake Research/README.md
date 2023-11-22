@@ -11,6 +11,10 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 1. Variable Description
 2. Data Understanding
 3. Data Visualization
+4. Break down Earthquake map into grid (1 x 1) degree
+5. Count Number earthquake each grid
+6. Variable Correlation
+7. 
 
 
 
