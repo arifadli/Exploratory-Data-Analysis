@@ -8,13 +8,13 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 <p align="justify"><b>Using EDA</b>, we can readily interpret the dataset, uncover patterns, identify outliers, and investigate the relationship between variables using non-graphical and graphical methodologies. EDA is a critical component of a data science project for understanding data and gaining insight into each variable.</p>
 
 <b>Table of Contents</b>
-1. Variable Description
+1. Feature Description
 2. Data Understanding
 3. Data Visualization
 4. Break down Earthquake map into grid (1 x 1) degree
 5. Count Number earthquake each grid
-6. Variable Correlation
-7. Variable Importance
+6. Feature Correlation
+7. Feature Importance
 
 
 
