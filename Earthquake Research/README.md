@@ -5,7 +5,7 @@ Before entering into statistical modeling or machine learning, exploratory data 
 
 Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Earthquake</b>
 
-<p align="justify"><b>Using EDA</b>, we can readily interpret the dataset, uncover patterns, identify outliers, and investigate the relationship between variables using non-graphical and graphical methodologies. EDA also aids us in determining which features to evaluate for our machine-learning model. (AKA feature selectio We now recognize that exploratory data analysis (EDA) is a critical component of a data science project for understanding data and gaining insight into each variable.</p>
+<p align="justify"><b>Using EDA</b>, we can readily interpret the dataset, uncover patterns, identify outliers, and investigate the relationship between variables using non-graphical and graphical methodologies. EDA is a critical component of a data science project for understanding data and gaining insight into each variable.</p>
 
 <b>Table of Contents</b>
 1. Variable Description
