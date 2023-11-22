@@ -15,6 +15,10 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 5. Count Number earthquake each grid
 6. Feature Correlation
 7. Feature Importance
+   - Using CART Classification and Regression
+   - Using RF Classification and Regression
+   - Using XGBoost Classification and Regression
+   
 
 
 
