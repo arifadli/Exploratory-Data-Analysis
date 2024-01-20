@@ -15,6 +15,10 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 5. Count Number earthquake each grid
 6. Statistical Description of Earthquake Events
 
+
+The Modified Mercalli (MM) Intensity Scale is used in the United States. Based on Giuseppe Mercalli's Mercalli intensity scale of 1902, the modified 1931 scale is composed of increasing levels of intensity that range from observable quake impacts from light shaking to catastrophic destruction. Roman numerals report intensity.
+
+An earthquake intensity scale consists of a series of critical responses, including people awakening, furniture movement, damage to chimneys, and destruction.
 <table class="fullTable" width="100%"><thead><tr><th width="20%">Intensity</th>
 <th width="20%">Shaking</th>
 <th width="60%">Description/Damage</th>
@@ -51,6 +55,70 @@ Description: <b>Exploratory Data Analysis for California, Iran and Indonesia Ear
 </tr></tbody></table>
    
 
+Earthquake Magnitude Scale
+Magnitude scales can be used to describe earthquakes so small that they are expressed in negative numbers. The scale also has no upper limit. Learn more about how we measure earthquake magnitude.
 
 
-
+<table class="striped auto" style="width: 100%;">
+                           
+                           <caption>Earthquake Magnitude Scale</caption>
+                           
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <th scope="col">Magnitude</th>
+                                 
+                                 <th scope="col">Earthquake Effects</th>
+                                 
+                                </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">2.5 or less</th>
+                                 
+                                 <td>Usually not felt, but can be recorded by seismograph.</td>
+                                 
+                                  </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">2.5 to 5.4</th>
+                                 
+                                 <td>Often felt, but only causes minor damage.</td>
+                                 
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">5.5 to 6.0</th>
+                                 
+                                 <td>Slight damage to buildings and other structures.</td>
+                                 
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">6.1 to 6.9</th>
+                                 
+                                 <td>May cause a lot of damage in very populated areas.</td>
+                                 
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">7.0 to 7.9</th>
+                                 
+                                 <td>Major earthquake. Serious damage.</td>
+                                 
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <th scope="row">8.0 or greater</th>
+                                 
+                                 <td>Great earthquake. Can totally destroy communities near the epicenter.</td>
+                                 
+                                 </tr>
+                              </tbody>
+                           </table>
