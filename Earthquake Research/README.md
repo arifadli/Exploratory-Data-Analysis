@@ -89,3 +89,37 @@ Magnitude scales can be used to describe earthquakes so small that they are expr
         <td>Great earthquake. Can totally destroy communities near the epicenter.</td>
     </tr>
 </table>
+
+<table class="tabular">
+<tbody>
+<tr valign="top">
+<th id="t1">Magnitude</th>
+<th id="t2">Typical Maximum<br>
+Modified Mercalli Intensity</th>
+</tr>
+<tr>
+<td headers="t1"><b>1.0 – 3.0</b></td>
+<td headers="t2"><b>I</b></td>
+</tr>
+<tr>
+<td headers="t1"><b>3.0 – 3.9</b></td>
+<td headers="t2"><b>II – III</b></td>
+</tr>
+<tr>
+<td headers="t1"><b>4.0 – 4.9</b></td>
+<td headers="t2"><b>IV – V</b></td>
+</tr>
+<tr>
+<td headers="t1"><b>5.0 – 5.9</b></td>
+<td headers="t2"><b>VI – VII</b></td>
+</tr>
+<tr>
+<td><b>6.0 – 6.9</b></td>
+<td headers="t2"><b>VII – IX</b></td>
+</tr>
+<tr>
+<td headers="t1"><b>7.0</b> and higher</td>
+<td headers="t2"><b>VIII</b> or higher</td>
+</tr>
+</tbody>
+</table>
