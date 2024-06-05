@@ -5,7 +5,7 @@
 <a href="https://github.com/arifadli/Exploratory-Data-Analysis/pulls"><img src="https://img.shields.io/github/issues-pr/arifadli/Exploratory-Data-Analysis" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/arifadli/Exploratory-Data-Analysis/issues"><img src="https://img.shields.io/github/issues/arifadli/Exploratory-Data-Analysis" alt="Issues Badge"/></a>
 <a href="https://github.com/arifadli/Exploratory-Data-Analysis/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/arifadli/Exploratory-Data-Analysis?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FPython_EDA&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farifadli%2FExploratory-Data-Analysis&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
 <p align="justify">Exploratory Data Analysis (EDA) is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
