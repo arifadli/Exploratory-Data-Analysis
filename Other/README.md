@@ -1,4 +1,8 @@
-# Exploratory Data Analysis (EDA)
+# Preliminary Data Analysis
 
-<p align="justify">Exploratory Data Analysis (EDA) is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
-Before entering into statistical modeling or machine learning, exploratory data analysis is a critical step to check the data is what it claims to be and that there are no evident flaws. Every organization's data science efforts should include it.</p>
+The goal is to do a preliminary data analysis by studying the cardio fitness data set, "CardioGoodFitness.csv".
+
+1. Create client profiles (customer attributes) for the various items.
+2. Perform univariate and multivariate analysis.
+3. Create a set of information and suggestions that will assist the organization in reaching new customers.
+
