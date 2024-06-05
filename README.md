@@ -11,7 +11,7 @@
 <p align="justify">Exploratory Data Analysis (EDA) is the process of summarizing data using statistical and graphical approaches in order to highlight relevant features of that data for further examination. This entails analyzing the dataset from several perspectives and characterizing and summarizing it without making any assumptions about its contents.
 Before entering into statistical modeling or machine learning, exploratory data analysis is a critical step to check the data is what it claims to be and that there are no evident flaws. Every organization's data science efforts should include it.</p>
 
-<p align="justify">Exploratory Data Analysis (EDA) is an important phase in the data analysis process that entails studying and summarizing a dataset in order to comprehend its properties, detect trends, and gain insights into it. EDA is often undertaken prior to the use of more complex statistical and machine learning techniques, and it aids in the formulation of hypotheses, the selection of relevant modeling methodologies, and the assurance of data quality. Here are some important components and techniques utilized in EDA: </p>
+<p align="justify">Exploratory Data Analysis (EDA) is an important phase in the data analysis process that entails studying and summarizing a dataset in order to comprehend its properties, detect trends, and gain insights into it. EDA is often undertaken prior to the use of more complex statistical and machine learning techniques, and it aids in the formulation of hypotheses, the selection of relevant modeling methodologies, and the assurance of data quality.</p>
 
 ## Why is EDA so important in data science?
 
@@ -24,10 +24,6 @@ Before entering into statistical modeling or machine learning, exploratory data 
 ✅️ EDA can assist in answering issues about standard deviations, categorical variables, and confidence intervals.
 
 ✅️ After completing the exploratory analysis and making predictions, its characteristics can be utilized for more complicated data analysis or modeling, such as machine learning.
-
-<p align="center">
-  <img src="./images/EDA.png"  height="200" />
-</p>
 
 ## Python
 👉 Python is a popular programming language for data science and has several libraries and tools that are commonly used for EDA such as:
